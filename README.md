@@ -4,7 +4,7 @@
 - Hoje trabalho com front-end e back-end
 - Estou estudando atualmente TypeScript
 
-<div align="center">
+<div>
   <a href="https://github.com/giovanaklim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovanaklim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaklim&langs_count=7&theme=tokyonight"/>

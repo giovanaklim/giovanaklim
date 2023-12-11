@@ -1,8 +1,7 @@
 ### Ola! Eu sou a Giovana Klim
 
 
-- Hoje trabalho com front-end e back-end
-- Estou estudando atualmente TypeScript
+- Hoje trabalho com Vue3, Typescript e PHP Laravel
 
 <div align="center">
   <a href="https://github.com/giovanaklim">

@@ -1,7 +1,8 @@
 ### Ola! Eu sou a Giovana Klim
 
-
-- Hoje trabalho com Vue3, Typescript e PHP Laravel
+- Possuo 3 anos de experiência com C#, Unity2d, JavaScript
+- Possuo 2 anos de experiência com Vue2 e PHP Laravel e Quasar frameworkk
+- Hoje trabalho com Vue3, Typescript, PHP Laravel e utilizo Quasar e Tailwind em meus projetos.
 
 <div align="center">
   <a href="https://github.com/giovanaklim">

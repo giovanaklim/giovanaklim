@@ -1,7 +1,7 @@
 ### Ola! Eu sou a Giovana Klim
 
 - Possuo 3 anos de experiência com C#, Unity2d, JavaScript
-- Possuo 2 anos de experiência com Vue2 e PHP Laravel e Quasar frameworkk
+- Possuo 2 anos de experiência com Vue2 e PHP Laravel e Quasar framework
 - Hoje trabalho com Vue3, Typescript, PHP Laravel e utilizo Quasar e Tailwind em meus projetos.
 
 <div align="center">
